@@ -1,36 +1,23 @@
-## Migration test data
+##  <img src = "sample/home.png" width="75" height="50" /> [MIGRATION TEST DATA](https://npdatax.github.io/migration)
 
 This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data of gender, area of involvement, skills and experience etc, we will create a dashboard for the general data view. This dish board will utilize a data integration through MongoDB.
 
 
-### Markdown
+###  <img src = "sample/lecture.png" width="30" height="30" />  REQUIRED COURSES OR SKILLS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|  [Data structure](intro/1.1.DataStructure.md)  | [Loops and Conditions](intro/2/1.2.LoopsAndConditions.md) | [Function and Class](intro/3/1.3.FunctionAndClass.md)  | 
+| --- | --- | --- | 
+|<img src = "intro/5/output_15_0.png" width="150" height="100" /> | <img src = "intro/4/output_15_0.png" width="150" height="100" />  |<img src = "intro/3/output_48_0.png" width="150" height="100" /> |
+| Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### <img src = "sample/project.png" width="30" height="30" />  CLASS-PROJECTS
 
-- Bulleted
-- List
+| [Random Walk](intro/4/1.4.Project-RandomWalk.md)  | [Diffusion](intro/5/1.5.Project-Diffusion.md) | [Fern](intro/2/1.2.LoopsAndConditions.md)  | [N-charges](intro/3/1.3.FunctionAndClass.md) |
+| --- | --- | --- | --- |
+|<img src = "intro/4/output_22_0.png" width="150" height="100" /> | <img src = "intro/5/output_20_0.png" width="150" height="100" />  |<img src = "intro/2/output_34_0.png" width="150" height="100" /> | <img src = "intro/3/output_34_0.png" width="150" height="100" />| 
+| Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### <img src = "sample/R.png" width="30" height="30" /> REFERENCES
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/npdatax/network/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

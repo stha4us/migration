@@ -7,7 +7,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 |  [Node.js and Express.js](intro/1.1.DataStructure.md)  | [Python](intro/2/1.2.LoopsAndConditions.md) | [MongoDB](intro/3/1.3.FunctionAndClass.md)  | 
 | --- | --- | --- | 
-|<img src = "sample/node.jpg" width="150" height="100" /> | <img src = "sample/python.png" width="150" height="100" />  |<img src = "sample/mongo.png" width="150" height="100" /> |
+|<img src = "sample/node.jpg" width="120" height="100" /> | <img src = "sample/python.png" width="120" height="100" />  |<img src = "sample/mongo.png" width="120" height="100" /> |
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | 
 
 

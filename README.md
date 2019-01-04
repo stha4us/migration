@@ -9,7 +9,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 | --- | --- | --- | 
 |<img src = "sample/node.jpg" width="120" height="100" /> | <img src = "sample/python.png" width="120" height="100" />  |<img src = "sample/mongo.png" width="120" height="100" /> |
 |Express.js build on the top of Node.js is implemented to create a web app | Python(pymongo) will be used to create a database and data management over MongoDB | MongoDB as a noSQL database is used to put the simulated data| 
-|Lecture: [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs) | Lecture: [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction) | Lecture: [Data Wrangling with MongoDB](https://in.udacity.com/course/data-wrangling-with-mongodb--ud032)| 
+|<b> Lecture </b>: [Server-side Development with NodeJS, Express and MongoDB](https://www.coursera.org/learn/server-side-nodejs) | Lecture: [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction) | Lecture: [Data Wrangling with MongoDB](https://in.udacity.com/course/data-wrangling-with-mongodb--ud032)| 
 
 
 #### <img src = "sample/project.png" width="30" height="30" />  PROJECT DETAIL

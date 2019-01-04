@@ -5,7 +5,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 ###  <img src = "sample/lecture.png" width="30" height="30" />  REQUIRED COURSES OR SKILLS
 
-|  [Node.js](intro/1.1.DataStructure.md)  | [Python](intro/2/1.2.LoopsAndConditions.md) | [MongoDB](intro/3/1.3.FunctionAndClass.md)  | 
+|  [Node.js and Express.js](intro/1.1.DataStructure.md)  | [Python](intro/2/1.2.LoopsAndConditions.md) | [MongoDB](intro/3/1.3.FunctionAndClass.md)  | 
 | --- | --- | --- | 
 |<img src = "sample/node.jpg" width="150" height="100" /> | <img src = "sample/python.png" width="150" height="100" />  |<img src = "sample/mongo.png" width="150" height="100" /> |
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | 
@@ -13,9 +13,9 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 ### <img src = "sample/project.png" width="30" height="30" />  PROJECT DETAIL
 
-| [Implement data generator](intro/4/1.4.Project-RandomWalk.md)  | [Implement Python API to manage data in MongoDB](intro/5/1.5.Project-Diffusion.md) | [Implement Node.js and express.js to create a RESTful web app](intro/2/1.2.LoopsAndConditions.md)  | [Create Data visualization dashboard using RESTful API](intro/3/1.3.FunctionAndClass.md) |
+| [Implement random data generator in Python](intro/4/1.4.Project-RandomWalk.md)  | [Implement Python API to manage data in MongoDB](intro/5/1.5.Project-Diffusion.md) | [Implement Node.js and express.js to create a RESTful web app](intro/2/1.2.LoopsAndConditions.md)  | [Create Data visualization dashboard using d3.js and chart.js](intro/3/1.3.FunctionAndClass.md) |
 | --- | --- | --- | --- |
-|<img src = "intro/4/output_22_0.png" width="150" height="100" /> | <img src = "intro/5/output_20_0.png" width="150" height="100" />  |<img src = "intro/2/output_34_0.png" width="150" height="100" /> | <img src = "https://anmolkoul.files.wordpress.com/2015/07/gridpreview.gif" width="150" height="100" />| 
+|<img src = "sample/random.png" width="150" height="100" /> | <img src = "sample/pymongo.jpg" width="150" height="100" />  |<img src = "sample/restful.jpg" width="150" height="100" /> | <img src = "https://anmolkoul.files.wordpress.com/2015/07/gridpreview.gif" width="150" height="100" />| 
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 

@@ -15,7 +15,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 | [Implement random data generator in Python](intro/4/1.4.Project-RandomWalk.md)  | [Implement Python API to manage data in MongoDB](intro/5/1.5.Project-Diffusion.md) | [Implement Node.js and express.js to create a RESTful web app](intro/2/1.2.LoopsAndConditions.md)  | [Create Data visualization dashboard using d3.js and chart.js](intro/3/1.3.FunctionAndClass.md) |
 | --- | --- | --- | --- |
-|<img src = "sample/random.png" width="150" height="100" /> | <img src = "sample/pymongo.jpg" width="150" height="100" />  |<img src = "sample/restful.jpg" width="150" height="100" /> | <img src = "https://anmolkoul.files.wordpress.com/2015/07/gridpreview.gif" width="150" height="100" />| 
+|<img src = "sample/random.png" width="150" height="100" /> | <img src = "sample/pymongo.jpg" width="150" height="100" />  |<img src = "sample/restful.jpg" width="150" height="100" /> | <img src = "https://anmolkoul.files.wordpress.com/2015/06/projectnew.gif" width="150" height="100" />| 
 | Fundamental of data structure in Python: list, tuples and dictionry | Fundamental of loop and conditional statements in Python: If, while, for, iteration etc | Fundamental of function and class in Python: data incaptulation, hierarchy | Fundamental of advanced library in Python: Numpy(Algebra), Pandas(dataframe), matplotlib(plot) |
 
 

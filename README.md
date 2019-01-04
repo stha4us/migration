@@ -1,4 +1,4 @@
-##  <img src = "sample/home.png" width="55" height="40" /> [MIGRATION TEST DATA](https://npdatax.github.io/migration)
+##  <img src = "sample/home.png" width="55" height="40" /> [MIGRATION TEST PROJECT](https://github.com/npdatax/migration)
 
 This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data of gender, area of involvement, skills and experience etc, we will create a dashboard for the general data view. This dish board will utilize a data integration through MongoDB.
 

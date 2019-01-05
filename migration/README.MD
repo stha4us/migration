@@ -37,7 +37,7 @@
 npm install 
 ```
 
-3. Start   
+4. Start   
 
 ```
 npm start

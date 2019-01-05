@@ -1,6 +1,6 @@
 ###  <img src = "sample/home.png" width="55" height="40" /> [MIGRATION PROJECT HOME](https://github.com/npdatax/migration)
 
-This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data of gender, area of involvement, skills and experience etc. We will create a dashboard for the general data view. This dish board will utilize a data integration through MongoDB.
+This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data (gender, area of involvement, skills and experience, amount of fund they allocate for entrepreneurship etc) saved in a remote database, we will create a dashboard for the general data view. This dish board will utilize a data integration through MongoDB database and RESTful API built with ```Express.js```.
 
 
 ####  <img src = "sample/lecture.png" width="30" height="30" />  REQUIRED COURSES OR SKILLS
@@ -23,11 +23,11 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 | Task  | Skills | Detail|  Due|
 | --- | --- | --- | --- |
-|1. Random data generator |Python  |Create a random migration data generator in Python(OOP) | First month| 
-|2. Use Scikit learn, Numpy, Pandas and Matplotlib(Seaborn) to create static data visualization (distribution, geogrphical plots, clustering etc.) |Python(basic) and packages  |Simulated data has different properties to be explored. Implement exploratory data analysis over the simulated data | Second month| 
+|1. Random data generator |Python  |Create a random migration data generator(Class) in Python(OOP). | First month| 
+|2. Use Scikit learn, Numpy, Pandas and Matplotlib(Seaborn) to create static data visualization (distribution, geogrphical plots, clustering etc.) |Python(basic) and packages  |Simulated data has different properties to be explored. Implement exploratory data analysis over the simulated data. | Second month| 
 |3. Implement Pymongo to create MongoDB database |Python and MongoDB  |Learn to implement database using Pymongo, Python and MongoDB. Simulated data will populate the MongoDB database.| Third month| 
-|4. Use ```d3.js``` and ```chart.js``` to create interactive data visualization (charts, networks, distribution etc) |javascript(basic) and packages  |Simulated data has different properties to be explored in interactive mode. Data will be imported from MongoDB database | Fourth month| 
-|5. Wrape up the interactive plots in an ```Express.js``` app framework(RESTful) |```Express.js``` and ```Node.js```  | Interactive data visulation can be made more dynamic | Fifth month| 
+|4. Use ```d3.js``` and ```chart.js``` to create interactive data visualization (charts, networks, distribution etc) |javascript(basic) and packages  |Simulated data has different properties to be explored in interactive mode. Data will be imported from MongoDB database. | Fourth month| 
+|5. Wrape up the interactive plots in an ```Express.js``` app framework(RESTful) |```Express.js``` and ```Node.js```  | Interactive data visulation can be made more dynamic. | Fifth month| 
 |6. Create a front line for web app using basic front end(HTML,CSS and javascript) along with ```Express.js```(RESTful) Model-View-Controller (MVC) |Basic front end (HTML,CSS, javascript)|Fully developed data visualization dashboard will be ready to be deployed in real data. |Sixth month| 
 
 

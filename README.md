@@ -5,7 +5,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 ####  <img src = "sample/lecture.png" width="30" height="30" />  REQUIRED COURSES OR SKILLS
 
-|  Node.js and Express.js  | Python| MongoDB  | 
+|  RESTful(MVC -model) (```Node.js``` and ```Express.js```)  | Python(Numpy,Pandas, Matplotlib)| MongoDB (NoSQL paradigm)  | 
 | --- | --- | --- | 
 |<img src = "sample/node.jpg" width="120" height="100" /> | <img src = "sample/python.png" width="120" height="100" />  |<img src = "sample/mongo.png" width="120" height="100" /> |
 |Express.js build on the top of Node.js is implemented to create a web app | Python(pymongo) will be used to create a database and data management over MongoDB | MongoDB as a noSQL database is used to put the simulated data| 

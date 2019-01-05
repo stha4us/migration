@@ -23,12 +23,12 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 | Task  | skills needed | detail|  due|
 | --- | --- | --- | --- |
-|Random data generator |Python  |create a random migration data generator in Python(OOP) | First week| 
-|Use Numpy, Pandas and matplotlib to create static data visualization |Python(basic) and packages  |Simulated data has different properties to be explored | Second and third week| 
-|Implement pymongo to create MongoDB database |Python and MOngoDB  |Learn to implement database using pymongo, python and mongoDB | Second and third week| 
-|Use d3.js and chart.js to create interactive data visualization |javascript(basic) and packages  |Simulated data has different properties to be explored | Second and third week| 
-|Wrape up the interactive plots in an Express.js app framework(RESTful) |Express.js and Node.js  | Interactive data visulation can be made more dynaic | Second and third week| 
-|Create a front line for web app using HTML,CSS and javascript along with express.js |basic fron end (HTML,CSS, javascript)  |Simulated data has different properties to be explored | Second and third week| 
+|1. Random data generator |Python  |create a random migration data generator in Python(OOP) | First month| 
+|2. Use Numpy, Pandas and matplotlib to create static data visualization |Python(basic) and packages  |Simulated data has different properties to be explored | Second month| 
+|3. Implement pymongo to create MongoDB database |Python and MOngoDB  |Learn to implement database using pymongo, python and mongoDB | Third month| 
+|4. Use d3.js and chart.js to create interactive data visualization |javascript(basic) and packages  |Simulated data has different properties to be explored | Fourth month| 
+|5. Wrape up the interactive plots in an Express.js app framework(RESTful) |Express.js and Node.js  | Interactive data visulation can be made more dynaic | Fifth month| 
+|6. Create a front line for web app using HTML,CSS and javascript along with express.js(RESTful) Model-View-Controller (MVC) |basic front end (HTML,CSS, javascript) and  |Simulated data has different properties to be explored |Sixth month| 
 
 
 

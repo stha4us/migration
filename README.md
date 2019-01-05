@@ -1,6 +1,6 @@
 ###  <img src = "sample/home.png" width="55" height="40" /> [MIGRATION PROJECT HOME](https://github.com/npdatax/migration)
 
-This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data (gender, area of involvement, skills and experience, amount of fund they allocate for entrepreneurship etc) saved in a remote database, we will create a dashboard for the general data view. This dish board will utilize a data integration through MongoDB database and RESTful API built with ```Express.js```.
+This is a project based on simulated data of people returning to Nepal from diffirent countries. Based on their data (gender, area of involvement, skills and experience, amount of fund they allocate for entrepreneurship etc) saved in a remote database, we will create a dashboard for the general data view. This dashboard will utilize a data integration through MongoDB database and RESTful API built with ```Express.js```.
 
 
 ####  <img src = "sample/lecture.png" width="30" height="30" />  REQUIRED COURSES OR SKILLS

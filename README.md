@@ -23,17 +23,12 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 | Task  | skills needed | detail|  due|
 | --- | --- | --- | --- |
-|1. Random data generator |Python  |create a random migration data generator in Python(OOP) | First month| 
-|2. Use Numpy, Pandas and matplotlib to create static data visualization |Python(basic) and packages  |Simulated data has different properties to be explored | Second month| 
-|3. Implement pymongo to create MongoDB database |Python and MOngoDB  |Learn to implement database using pymongo, python and mongoDB | Third month| 
-|4. Use d3.js and chart.js to create interactive data visualization |javascript(basic) and packages  |Simulated data has different properties to be explored | Fourth month| 
-|5. Wrape up the interactive plots in an Express.js app framework(RESTful) |Express.js and Node.js  | Interactive data visulation can be made more dynaic | Fifth month| 
-|6. Create a front line for web app using HTML,CSS and javascript along with express.js(RESTful) Model-View-Controller (MVC) |basic front end (HTML,CSS, javascript) and  |Simulated data has different properties to be explored |Sixth month| 
-
-
-
-
-
+|1. Random data generator |Python  |Create a random migration data generator in Python(OOP) | First month| 
+|2. Use Numpy, Pandas and matplotlib to create static data visualization |Python(basic) and packages  |Simulated data has different properties to be explored. IMplement exploratory data analysis | Second month| 
+|3. Implement Pymongo to create MongoDB database |Python and MongoDB  |Learn to implement database using Pymongo, Python and MongoDB | Third month| 
+|4. Use ```d3.js``` and ```chart.js``` to create interactive data visualization |javascript(basic) and packages  |Simulated data has different properties to be explored in interactive mode | Fourth month| 
+|5. Wrape up the interactive plots in an ```Express.js``` app framework(RESTful) |```Express.js``` and ```Node.js```  | Interactive data visulation can be made more dynamic | Fifth month| 
+|6. Create a front line for web app using basic front end(HTML,CSS and javascript) along with ```Express.js```(RESTful) Model-View-Controller (MVC) |basic front end (HTML,CSS, javascript) and  |Fully developed data visualization dashboard |Sixth month| 
 
 
 

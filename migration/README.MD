@@ -31,6 +31,12 @@
    create : migration/bin/
    create : migration/bin/www
    ```
+   
+3. Install 
+```
+npm install 
+```
+
 3. Start   
 
 ```

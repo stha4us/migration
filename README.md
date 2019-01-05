@@ -28,7 +28,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 |3. Implement Pymongo to create MongoDB database |Python and MongoDB  |Learn to implement database using Pymongo, Python and MongoDB. Simulated data will populate the MongoDB database.| Third month| 
 |4. Use ```d3.js``` and ```chart.js``` to create interactive data visualization (charts, networks, distribution etc) |javascript(basic) and packages  |Simulated data has different properties to be explored in interactive mode. Data will be imported from MongoDB database | Fourth month| 
 |5. Wrape up the interactive plots in an ```Express.js``` app framework(RESTful) |```Express.js``` and ```Node.js```  | Interactive data visulation can be made more dynamic | Fifth month| 
-|6. Create a front line for web app using basic front end(HTML,CSS and javascript) along with ```Express.js```(RESTful) Model-View-Controller (MVC) |Basic front end (HTML,CSS, javascript)|Fully developed data visualization dashboard |Sixth month| 
+|6. Create a front line for web app using basic front end(HTML,CSS and javascript) along with ```Express.js```(RESTful) Model-View-Controller (MVC) |Basic front end (HTML,CSS, javascript)|Fully developed data visualization dashboard will be ready to be deployed in real data. |Sixth month| 
 
 
 

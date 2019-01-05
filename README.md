@@ -21,7 +21,7 @@ This is a project based on simulated data of people returning to Nepal from diff
 
 #### <img src = "sample/assign.png" width="30" height="30" />  TIMELINE
 
-| Task  | skills needed | detail|  due|
+| Task  | Skills | Detail|  Due|
 | --- | --- | --- | --- |
 |1. Random data generator |Python  |Create a random migration data generator in Python(OOP) | First month| 
 |2. Use Numpy, Pandas and matplotlib to create static data visualization |Python(basic) and packages  |Simulated data has different properties to be explored. IMplement exploratory data analysis | Second month| 

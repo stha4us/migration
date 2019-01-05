@@ -31,7 +31,12 @@
    create : migration/bin/
    create : migration/bin/www
    ```
-   
+3. Start   
+
+```
+npm start
+```
+
    
    
    

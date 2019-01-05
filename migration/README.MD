@@ -13,7 +13,7 @@
  This will print following package list:
  
   ```
-  create : migration/
+   create : migration/
    create : migration/public/
    create : migration/public/javascripts/
    create : migration/public/images/

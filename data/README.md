@@ -99,7 +99,10 @@
  12. Personal statement/view/openion
  
  ```
- In my openion, young generation should start to build the country. We can not avoid the implementation of technology. The use of modern science along implementation of IT can really revolutionize the dream of development. Blha..blha..
+ In my openion, young generation should start to build the country. 
+ We can not avoid the implementation of technology. 
+ The use of modern science along implementation of IT can really 
+ revolutionize the dream of development. Blha..blha..
  
  ````
  

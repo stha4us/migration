@@ -4,9 +4,9 @@
 
 2. MongoDB 
 
-3. d3.js and chart.js implementation
+3. ```d3.js``` and ```chart.js``` implementation
 
-4. Node.js and express.js
+4. ```Node.js``` and ```express.js```
 
 5. Dynamic dashboard
 

@@ -14,25 +14,44 @@
  3. Generate a current country  dictionary
  
   ```
- {"sym": "AD", "name": "Andorra", "lat": "42.546245", "lon": "1.601554"}
+ {  
+      "sym":"JP",
+      "name":"Japan",
+      "lat":"36.204824",
+      "lon":"138.252924"
+   },
  ```
  
  4. Generate a home address
  
   ```
- {"province": "AD", "district": "ABC", "Muncipality": "XYG"}
+ {
+     "province": "AD",
+     "district": "ABC",
+     "Muncipality": "XYG"
+ }
  ```
  
  5. Generate a profession
  
    ```
- {"major": "Medical Doctor", "special": "Cancer therapy", "Current Study": "Radiology effect"}
+ {
+    "major": "Medical Doctor",
+    "special": "Cancer therapy",
+    "Current Study": "Radiology effect"
+    }
  ```
  
  6.  Fund available to implement in business/construction/share
  
  ```
- {"agriculture" : 0%, "Electricity" : 10%, "IT" : 20%, "Share" : 40%, "Food": 0%}
+ {
+     "Agriculture" : 0%,
+     "Electricity" : 10%,
+     "IT" : 20%,
+     "Share" : 40%,
+     "Food": 0%
+ }
  ```
  
  

@@ -78,7 +78,7 @@ var bodyParser = require('body-parser');
 <b> Filesystem: </b> The Node.js file system module allows you to work with the file system on your computer.The fs module provides an API for interacting with the file system in a manner closely modeled around standard POSIX functions. Read more
 
 ```
-	var fs = require('fs');
+var fs = require('fs');
 ```
 
 <b> Multer: </b> Multer is a node.js middleware for handling multipart/form-data, which is primarily used for uploading files. It is written on top of busboy for maximum efficiency. Read more
@@ -122,7 +122,7 @@ var config = require('./config/app.json');
 We connect to the MongoDB database with url provided by configDB variable. We follow the strategy required for  mongoose.connect( ): mongoose.connect('mongodb://username:password@host:port/database?options...'); Read more 
 
 ```
-  			mongoose.connect(configDB.url); // connect to our database
+mongoose.connect(configDB.url); // connect to our database
 ````
 
 
